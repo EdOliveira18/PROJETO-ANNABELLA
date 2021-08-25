@@ -1,0 +1,38 @@
+body{
+    background: #A9A9A9 url('imagens/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+ width: 900px;
+}
+
+#menu{
+    font-size: 20px;
+    padding: 15px;
+    background: #c5c5b2;
+    padding-left: 20px;
+    
+}
+a{
+   text-decoration: none;
+   color: #4b566a;
+   font-weight: bold; 
+}
+
+#conteudo{
+    background: #DCDCDC;
+    padding: 15px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+h3{
+    color:gray;
+}
+
+.moldura{ 
+   border: 8px solid #c5c5b2;
+}
